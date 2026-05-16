@@ -1,0 +1,30 @@
+{ padding: 0;
+    margin: 0;
+}
+body {background-color: lightblue;}
+h1 {color: #d34525;
+    text-align: 0;
+}
+nav{font-weight: bold;
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#d34525;
+    font-size:large;
+}
+nav a{ padding: 20;}
+img{border-radius: 100px;
+    padding: 20px;
+    border: 2px dotted #d36225;
+    width: 125;
+}
+table, th, td {border: 2px solid black;}
+h3 {color: rgb(0, 0, 0);
+    text-shadow: #d36225;
+}
+li{color:red;}
+h4 {color:black;
+    text-align:0;
+}
+button {color:aqua;}
+a:link {text-decoration:overline}
+
